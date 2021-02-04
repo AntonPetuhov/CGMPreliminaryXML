@@ -1,0 +1,2 @@
+# CGMPreliminaryXML
+формирование предварительной xml
